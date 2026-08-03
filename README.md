@@ -94,9 +94,8 @@
 </p>
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
-<p>
-
+  <img src="https://raw.githubusercontent.com/abhi0626-kr/abhi0626-kr/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:7C3AED,100:00F5FF&section=footer"/>
 </p>

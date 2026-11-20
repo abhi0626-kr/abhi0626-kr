@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img alt="Abhishek K R - Profile Banner" src="dark.svg" width="100%">
+  <img alt="Abhishek KR - Profile Banner" src="dark.svg" width="100%">
 </picture>
 
 ## 🌐 Socials:

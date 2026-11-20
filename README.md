@@ -67,7 +67,10 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&duration=3500&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Always+Learning+🚀;Building+Cool+Projects;Open+Source+Enthusiast"/>
+  <picture>
+    <source srcset="./typing.svg" type="image/svg+xml">
+    <img src="typing.svg" alt="Always Learning - Building Cool Projects - Open Source Enthusiast" width="600" height="50"/>
+  </picture>
 </h1>
 
 <p align="center">
